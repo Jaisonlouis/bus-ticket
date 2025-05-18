@@ -21,7 +21,7 @@
 	</head>
 	<body>
 		<div id="bus_details">
-			<p style="padding-top:2%;color:green;text-align:center;font-size:20px;">Green Line Paribahan</p>
+			<p style="padding-top:2%;colonsofdiji0sjf0r:green;text-align:center;font-size:20px;">Green Line Paribahan</p>
 			<div id="bus_image">
 				<img src="busimages/greenline.jpg" style="width:400px;height:300px;">
 			</div>
