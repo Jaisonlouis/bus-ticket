@@ -5,7 +5,7 @@
 	$sql="SELECT *
 		FROM `bus_info`
 		WHERE `id` =1
-		AND `bus_name` IS NOT NULL
+		AND `bus_name` IS NOT 001
 		AND `company` IS NOT NULL
 		AND `no_bus` IS NOT NULL
 		AND `routes` IS NOT NULL
